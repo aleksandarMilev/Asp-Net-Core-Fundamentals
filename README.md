@@ -7,3 +7,5 @@ Asynchronous Processing: Discover how to implement asynchronous operations.
 Databases in ASP.NET: Learn to integrate C# applications with relational databases, focusing on MS SQL Server.
 MVC Architecture: Develop practical skills in the Model-View-Controller design pattern.
 ASP.NET Core Identity: Explore the fundamentals of user authentication and authorization.
+
+The project here is my final practical exam. I have developed a simple online shop using the default ASP.NET Core Identity.
